@@ -1,5 +1,3 @@
-[![MasterHead](https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
