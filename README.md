@@ -23,16 +23,16 @@
 <a href="https://linkedin.com/in/rishianand39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishianand39" height="30" width="40" /></a>
 <a href="https://medium.com/@rishi.rn818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rishi.rn818" height="30" width="40" /></a>
 </p>
-## My GitHub Stats 📊
+
 <a href="https://github.com/rishianand39/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishianand39&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/rishianand39/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishianand39" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishianand39&theme=radical" />
 </a>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishianand39&show_icons=true&locale=en&layout=compact" alt="rishianand39" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishianand39&show_icons=true&locale=en" alt="rishianand39" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishianand39&" alt="rishianand39" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishianand39&theme=radical" alt="rishianand39" /></p>
