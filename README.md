@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishianand39&label=Profile%20views&color=0e75b6&style=flat" alt="rishianand39" /> </p>
 
 
-- 🌱 I’m currently learning **React.js**
+-- 🌱 I’m currently learning **React.js**
 
 - 📝 I regularly write articles on [https://medium.com/@rishi.rn818](https://medium.com/@rishi.rn818)
 
