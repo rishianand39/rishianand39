@@ -31,8 +31,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishianand39" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishianand39&show_icons=true&locale=en&layout=compact" alt="rishianand39" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishianand39&show_icons=true&locale=en&layout=compact" alt="rishianand39" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishianand39&show_icons=true&locale=en" alt="rishianand39" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishianand39&show_icons=true&locale=en" alt="rishianand39" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishianand39&" alt="rishianand39" /></p>
