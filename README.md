@@ -38,7 +38,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rishianand39&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/rishianand39/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishianand39&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishianand39&theme=radical" />
 </a>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishianand39&show_icons=true&locale=en&layout=compact" alt="rishianand39" /></p> -->
