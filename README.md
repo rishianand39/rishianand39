@@ -7,7 +7,7 @@ Full Stack Web Developer
 I am proficient in react, redux, javascript, MongoDB, nodejs, express, HTML, and CSS. I started learning coding with HTML but I got interested in backend development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishianand39&label=Profile%20views&color=0e75b6&style=flat" alt="rishianand39" /> </p>
-
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
 * 🖥️  See my portfolio at [rishianand](http://rishianand.netlify.app/)
 * ✉️  You can contact me at [rishi.rn818@gmail.com](mailto:rishi.rn818@gmail.com)
