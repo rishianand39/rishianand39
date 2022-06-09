@@ -9,7 +9,7 @@ I am proficient in react, redux, javascript, MongoDB, nodejs, express, HTML, and
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishianand39&label=Profile%20views&color=0e75b6&style=flat" alt="rishianand39" /> </p>
 
 
-* 🖥️  See my portfolio at [rishianand](http://rishianand.netlify.app/)
+* 🖥️  See my portfolio at [rishianand](https://rishianand.vercel.app/)
 * ✉️  You can contact me at [rishi.rn818@gmail.com](mailto:rishi.rn818@gmail.com)
 * 🚀  I'm currently working on [E-commerce](http://full-stack-application.vercel.app/)
 * 🧠  I'm learning React redux
