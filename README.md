@@ -10,6 +10,7 @@ I am proficient in react, redux, javascript, MongoDB, nodejs, express, HTML, and
 
 
 * 🖥️  See my portfolio at [rishianand](https://rishianand.vercel.app/)
+* 🖥️  See my resume at [rishianand](https://docs.google.com/document/d/19R8c3Vtdrvu64TLjubZZAf3jLqY1x-wBiZx0-p5UImg/edit)
 * ✉️  You can contact me at [rishi.rn818@gmail.com](mailto:rishi.rn818@gmail.com)
 * 🚀  I'm currently working on [E-commerce](http://full-stack-application.vercel.app/)
 * 🧠  I'm learning React redux
