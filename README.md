@@ -12,8 +12,6 @@ I am proficient in react, redux, javascript, MongoDB, nodejs, express, HTML, and
 * 🖥️  See my portfolio at [rishianand](https://rishianand.vercel.app/)
 * 🖥️  See my resume at [rishianand](https://drive.google.com/file/d/140OeianP7vUB0BN9uhFqW45_RbVuE-mS/view?usp=sharing)
 * ✉️  You can contact me at [rishi.rn818@gmail.com](mailto:rishi.rn818@gmail.com)
-* 🚀  I'm currently working on Chat Application
-* 🧠  I'm learning REACT NATIVE
 * ⚡  I'm secretly a spiderman.... but don't tell anyone🤫
 
 ### Skills
