@@ -9,8 +9,7 @@ I am proficient in react, redux, javascript, MongoDB, nodejs, express, HTML, and
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishianand39&label=Profile%20views&color=0e75b6&style=flat" alt="rishianand39" /> </p>
 
 
-* 🖥️  See my portfolio at [rishianand](https://rishianand.vercel.app/)
-* 🖥️  See my resume at [rishianand](https://drive.google.com/file/d/140OeianP7vUB0BN9uhFqW45_RbVuE-mS/view?usp=sharing)
+* 🖥️  See my resume at [rishianand](https://drive.google.com/file/d/1baBLotRB9dD2lkyaxVnBclsEN0-AhJET/view?usp=sharing)
 * ✉️  You can contact me at [rishi.rn818@gmail.com](mailto:rishi.rn818@gmail.com)
 * ⚡  I'm secretly a spiderman.... but don't tell anyone🤫
 
