@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishianand39" alt="rishianand39" /></a> </p>
 
 - 🔭 I’m currently working on [Task Manager](https://task-manager-ra.vercel.app/)
-- 
+
 - 🔭 Know About Me  [Resume](https://drive.google.com/file/d/1SXu_cxe5Q72LCsy9VfIf2OtsnNvl8CqU/view?usp=sharing)
 
 - 🌱 I’m currently learning **C**
