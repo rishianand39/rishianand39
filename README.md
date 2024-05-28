@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Task Manager](https://task-manager-ra.vercel.app/)
 
-- 🔭 Know About Me  [Resume](https://drive.google.com/file/d/1SXu_cxe5Q72LCsy9VfIf2OtsnNvl8CqU/view?usp=sharing)
+- 🔭 Know About Me  [Resume](https://drive.google.com/file/d/1baBLotRB9dD2lkyaxVnBclsEN0-AhJET/view?usp=drive_link)
 
 - 🌱 I’m currently learning **C**
 
