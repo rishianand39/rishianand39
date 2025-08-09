@@ -19,6 +19,8 @@
 
 ---
 
+📄 **[My Resume](https://drive.google.com/file/d/1baBLotRB9dD2lkyaxVnBclsEN0-AhJET/view)**  
+
 ## 🛠️ Tech Arsenal  
 
 <p align="center">
@@ -29,9 +31,6 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishianand39&theme=radical" alt="GitHub Streak" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishianand39&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
