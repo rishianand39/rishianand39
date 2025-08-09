@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, nodejs, express, mongodb, javascript**
 
-- 📫 How to reach me **rishi.rn818@gmail.com**
+- 📫 How to reach me **rishianand.w@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
